@@ -10,6 +10,11 @@ A draft slide deck has been created to show 4 main concepts:
 4. Proposing a large scale open source effort to advance Solar Bitcoin Mining & operation
 
 See a low-res PDF copy of the slides here:
+
 https://github.com/mullojo/Solar-Bitcoin-Mining/blob/main/Solar%20Bitcoin%20Mining%20-%20Draft%20v1.pdf
 
-We're welcoming contributors & collaborators to advance the ideas here so that we can collectively make them a reality
+We're welcoming contributors & collaborators to advance the ideas here so that we can collectively make them a reality.
+
+This project was created for and first shared in the Open Bitcoin Design Community on Slack.  If you're not part of the community yet, you can join with this invite link: 
+
+https://join.slack.com/t/bitcoindesign/shared_invite/zt-10sxfovaq-isViijl4RThKRs_TsAQnuA
