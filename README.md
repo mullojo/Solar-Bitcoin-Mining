@@ -18,3 +18,6 @@ We're welcoming contributors & collaborators to advance the ideas here so that w
 This project was created for and first shared in the Open Bitcoin Design Community on Slack.  If you're not part of the community yet, you can join with this invite link: 
 
 https://join.slack.com/t/bitcoindesign/shared_invite/zt-10sxfovaq-isViijl4RThKRs_TsAQnuA
+
+A Solar Bitcoin Mining calculator is being built here:
+https://observablehq.com/@mullojo/solar-bitcoin-mining-now-and-into-the-future
