@@ -20,4 +20,5 @@ This project was created for and first shared in the Open Bitcoin Design Communi
 https://join.slack.com/t/bitcoindesign/shared_invite/zt-10sxfovaq-isViijl4RThKRs_TsAQnuA
 
 A Solar Bitcoin Mining calculator is being built here:
+
 https://observablehq.com/@mullojo/solar-bitcoin-mining-now-and-into-the-future
